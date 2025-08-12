@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/remis/Desktop/tetris/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\MyProject.dir\\src\\main.cpp.obj -c C:\\Users\\remis\\Desktop\\tetris\\src\\main.cpp",
+  "file": "C:/Users/remis/Desktop/tetris/src/main.cpp",
+  "output": "CMakeFiles/MyProject.dir/src/main.cpp.obj"
+}
+]
